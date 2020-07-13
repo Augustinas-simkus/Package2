@@ -1,0 +1,18 @@
+{
+	"name": "com.augustinas_simkus.package2",
+	"displayName": "Package 2",
+	"version": "1.0.0",
+	"unity": "2018.4",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Augustinas-simkus/Package2.git",
+		"revision": "1.0.0"
+	},
+	"dependencies": {
+    "com.augustinas_simkus.package1": "https://github.com/Augustinas-simkus/Package1.git"
+  },
+  "description": "Package 1 which is a dependacy of Package 2",
+  "author": {
+    "name": "Augustinas Simkus"
+  } 
+}
