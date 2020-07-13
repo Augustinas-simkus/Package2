@@ -11,7 +11,7 @@
 	"dependencies": {
     "com.augustinas_simkus.package1": "https://github.com/Augustinas-simkus/Package1.git"
   },
-  "description": "Package 1 which is a dependacy of Package 2",
+  "description": "Package 2 which is dependant on Package 2",
   "author": {
     "name": "Augustinas Simkus"
   } 
