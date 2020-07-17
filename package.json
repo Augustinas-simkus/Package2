@@ -9,7 +9,7 @@
 		"revision": "1.0.0"
 	},
 	"dependencies": {
-    "com.augustinas_simkus.package1": "https://github.com/Augustinas-simkus/Package1.git#1.0.0"
+    "https://github.com/Augustinas-simkus/Package1.git#1.0.0": "1.0.0"
   },
   "description": "Package 2 which is dependant on Package 1",
   "author": {
